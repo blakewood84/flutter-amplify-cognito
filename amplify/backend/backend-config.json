@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "flutteramplifycognit7d516345": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
